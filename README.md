@@ -1,4 +1,4 @@
-# MERN Shopping List
+# [MERN Shopping List](https://serene-garden-10704.herokuapp.com/)
 A digital shopping list web application created with the MERN stack (MongoDB, Express, React, Node).
 
 Check out the live app [here](https://serene-garden-10704.herokuapp.com/)!
