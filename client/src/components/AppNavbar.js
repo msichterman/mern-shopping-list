@@ -11,7 +11,7 @@ import {
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import RegisterModal from './auth/RegisterModal';
-import Logout from './auth/Logout';
+import Logout from './auth/Logout.js';
 import LoginModal from './auth/LoginModal';
 
 class AppNavbar extends Component {
