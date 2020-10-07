@@ -19,6 +19,21 @@ I created this site because I wanted to learn how to build a fullstack web appli
   * Mongoose
 * Heroku
 
+## Features
+### User Authentication (Built From Scratch)
+#### Register
+
+#### Login
+#### Logout
+### Authenticated User Actions
+#### Add to Shopping List
+#### Remove from Shopping List
+### All User Actions
+#### View Shopping List
+##### Authenticated Users
+##### Guest Users
+
+
 ## Get In Touch
 * Follow me on [Twitter](https://twitter.com/mattsichterman)
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/msichterman/)
